@@ -1,6 +1,6 @@
 # Indonesia's Workers' Welfare Assessment
 
-#### ⭐ Project Name : Analysis on Provincial and National Economic Performance
+#### ⭐ Project Name : Analysis on Provincial and National Economic Performance (Team Project)
 #### ⌛ Related Class : Machine Learning
 #### 🔑 Keywords : boxplot, correlation matrix, k-means clustering, pairplot, polynomial regerssion, prediction
 ##### Description : Clustering of national provinces into distinct socioeconomic tiers based on poverty factors (wage, poverty line, and expenses) followed by prediction on the economic trajectory of each tier for 2027.
